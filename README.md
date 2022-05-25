@@ -1,5 +1,5 @@
-# socoban
-socoban game with ncurse lib
+# sokoban
+sokoban game with ncurse lib
 
 
 USAGE
